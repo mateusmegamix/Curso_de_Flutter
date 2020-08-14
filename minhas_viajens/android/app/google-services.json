@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254863719114",
+    "firebase_url": "https://minhas-viajens-fd5b5.firebaseio.com",
+    "project_id": "minhas-viajens-fd5b5",
+    "storage_bucket": "minhas-viajens-fd5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254863719114:android:f95148deeceff753bdd233",
+        "android_client_info": {
+          "package_name": "com.flutter.mateus.minhas_viajens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254863719114-8mrv34j4o6oq7f33h7q9u7irn9q48t22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4xbTL4z3G79jiEQrxpW9F1k01IzNmmzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254863719114-8mrv34j4o6oq7f33h7q9u7irn9q48t22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

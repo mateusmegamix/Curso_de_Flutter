@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "330672097944",
+    "firebase_url": "https://uber-fb037.firebaseio.com",
+    "project_id": "uber-fb037",
+    "storage_bucket": "uber-fb037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330672097944:android:935c276ba3b496c4eedeed",
+        "android_client_info": {
+          "package_name": "com.flutter.mateus.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330672097944-ekl77c0otsqq2lte070ab2jtk0beu380.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMeE4Eq9_zvIE1_Hb2dQiymUP-OKYN4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330672097944-ekl77c0otsqq2lte070ab2jtk0beu380.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

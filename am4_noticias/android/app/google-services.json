@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990090084121",
+    "firebase_url": "https://am4-noticia.firebaseio.com",
+    "project_id": "am4-noticia",
+    "storage_bucket": "am4-noticia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990090084121:android:67561e46d03a1b11e9cf88",
+        "android_client_info": {
+          "package_name": "com.am4.mateus.am4_noticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990090084121-h4243epa3kng329j0hl1tp8b2iag204h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FuFKgj33mZ1reH-s-1Bed94kw2dteis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990090084121-h4243epa3kng329j0hl1tp8b2iag204h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
